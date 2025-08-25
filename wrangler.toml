@@ -1,6 +1,1 @@
-name = "telegraph-image-67z"
-pages_build_output_dir = "./dist"
 
-[[routes]]
-pattern = "8b3656e8.telegraph-image-67z.pages.dev/file/*"
-zone = "pages.dev"
